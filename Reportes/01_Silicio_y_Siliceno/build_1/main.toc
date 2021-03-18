@@ -1,0 +1,6 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Actividad}{1}%
+\contentsline {section}{\numberline {2}Simulación estructural y electrónica del silicio.}{2}%
+\contentsline {section}{\numberline {3}Simulación estructural y electrónica del siliceno.}{2}%
+\contentsline {section}{\numberline {4}Datos estructurales del silicio, siliceno y silicano.}{2}%
+\contentsline {section}{Referencias}{2}%

@@ -1,3 +1,5 @@
+% Elaborado por Jesús Loera, Cesar Valladares y Vrani Chavez
+
 \input{package.tex}
 
 \input{preambulo.tex}
@@ -6,11 +8,12 @@
 
 \input{portada.tex}
 
-\tableofcontents			% indice
+\tableofcontents			% Índice
 
 \begin{center}
-	\rule[0mm]{150mm}{0.1mm}		% Para dibujar una linea horizontal de						% [elevación]{longitud}{grosor}
-\end{center}
+	\rule[0mm]{150mm}{0.1mm}		% Para dibujar una linea horizontal de
+									% [elevación]{longitud}{grosor}
+	\end{center}
 	
 	
 \begin{abstract}		% ABSTRACT
@@ -19,19 +22,22 @@
 	
 \begin{center}
 	\rule[0mm]{150mm}{0.1mm}
-\end{center}
+	\end{center}
 
-\section{Actividad}
-	\input{activity.tex}
-
-\section{Simulación estructural y electrónico del ​silicio​.}
-	\input{silicio.tex}
-
-\section{Simulación estructural y electrónico del ​siliceno​.}
-	\input{siliceno.tex}
-
+\section{Actividad}	
+    \input{actividad.tex}        
+                            
+\section{Simulación estructural y electrónica del silicio.}	
+    \input{silicio.tex}  
+    
+\section{Simulación estructural y electrónica del siliceno.}	
+    \input{siliceno.tex}     
+    
+\section{Datos estructurales del silicio, siliceno y silicano.}	
+    \input{silicano.tex}      
+    
 \bibliographystyle{unsrt}
 \nocite{*}
-\bibliography{sample}
+\bibliography{referencias}
 
 \end{document}

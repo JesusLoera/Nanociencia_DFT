@@ -1,4 +1,23 @@
 
+\newsavebox\foobox
+\newlength{\foodim}
+\newcommand{\slantbox}[2][0]{\mbox{%
+        \sbox{\foobox}{#2}%
+        \foodim=#1\wd\foobox
+        \hskip \wd\foobox
+        \hskip -0.5\foodim
+        \pdfsave
+        \pdfsetmatrix{1 0 #1 1}%
+        \llap{\usebox{\foobox}}%
+        \pdfrestore
+        \hskip 0.5\foodim
+}}
+\def\Laplace{\ThisStyle{\slantbox[-.45]{$\SavedStyle\mathscr{L}$}}}
+
+
+\renewcommand{\abstractname}{Descripción}   % Cambiamos el nombre del abstract
+\renewcommand{\contentsname}{Contenidos}   % Cambiamos el nombre de contents
+
 \setlength{\jot}{12pt}
 
 \setmargins{2.5cm}       % margen izquierdo
