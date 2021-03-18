@@ -1,0 +1,46 @@
+&CONTROL
+  calculation = 'scf',
+  prefix='test',
+  pseudo_dir='/home/jesus/Documentos/Nanociencia_DFT/pseudopotenciales',
+  outdir='/home/jesus/Documentos/Nanociencia_DFT',
+  restart_mode = 'from_scratch',
+  nstep = 1,
+  etot_conv_thr = 1.0D-4,
+  forc_conv_thr = 1.0D-3,
+/
+&SYSTEM
+  ibrav = 2,
+  nat = 2,
+  ntyp = 1,
+  ecutwfc = 30,
+  ecutrho = 300,
+  occupations = 'smearing',
+  smearing = 'm-p',
+  degauss = 0.01,
+  a= 5.4,
+/
+&ELECTRONS
+  electron_maxstep=100,
+  conv_thr=1.D-6,
+  mixing_mode='plain',
+  mixing_beta=0.7,
+/
+&IONS
+  ion_dynamics='bfgs',
+/
+&CELL
+  cell_dynamics='bfgs',
+  cell_dofree='all',
+/
+ATOMIC_SPECIES
+Si 28.0855  Si.pbe-n-rrkjus_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS { crystal }
+Si 0.000 0.000 0.000
+Si 0.250 0.250 0.250
+
+K_POINTS { automatic }
+7 7 7 0 0 0
+
+
+

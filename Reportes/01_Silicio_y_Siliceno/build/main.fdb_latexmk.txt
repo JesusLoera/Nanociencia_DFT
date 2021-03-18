@@ -1,0 +1,23 @@
+# Fdb version 3
+["pdflatex"] 1616086693 "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex" "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf" "main" 1616088322
+  "/home/jesus/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1616085753 9403064 a967099a6cc7723358a5ee2ebdd212ce ""
+  "/home/jesus/.miktex/texmfs/install/fonts/tfm/public/cm/cmr12.tfm" 1616085252 1288 655e228510b4c2a1abe905c368440826 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/base/article.cls" 1616085308 20145 aad8c3dd3bc36e260347b84002182bc2 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/base/size12.clo" 1616085308 8450 6fd3588c0e9d06f6f56c6cf4f7246466 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg" 1616085262 1224 978390e9c2234eab29404bc21b268d1e ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def" 1616085262 19103 48d29b6e2a64cb717117ef65f107b404 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics/graphics.sty" 1616085262 18881 fcaac9be49429f0b2d9a06bf01f68643 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty" 1616085262 8167 ffb7cbc2d402299e51358388574f079e ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics/keyval.sty" 1616085262 2677 8bf0251bbc6fa542a4741485cf6bf9c9 ""
+  "/home/jesus/.miktex/texmfs/install/tex/latex/graphics/trig.sty" 1616085262 4093 a9ed0e8e6719af98ec5e44cff6b193b1 ""
+  "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux" 1616086693 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/scrextend.sty" 0 -1 0 ""
+  "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex" 1616086336 671 df5e4bcaf2a49aa74cd8c0a5e6e0f7af ""
+  "build/scrextend.sty" 0 -1 0 ""
+  "main.tex" 1616086336 671 df5e4bcaf2a49aa74cd8c0a5e6e0f7af ""
+  "package.tex" 1616086690 1536 0f63e01a4f6f44819a70809fdd0bee04 ""
+  "scrextend.sty" 0 -1 0 ""
+  (generated)
+  "build/main.log"
+  "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.log"
+  "/home/jesus/Documentos/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf"

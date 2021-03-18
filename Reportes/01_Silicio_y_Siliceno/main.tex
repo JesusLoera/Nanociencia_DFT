@@ -1,0 +1,37 @@
+\input{package.tex}
+
+\input{preambulo.tex}
+
+\begin{document}
+
+\input{portada.tex}
+
+\tableofcontents			% indice
+
+\begin{center}
+	\rule[0mm]{150mm}{0.1mm}		% Para dibujar una linea horizontal de						% [elevación]{longitud}{grosor}
+\end{center}
+	
+	
+\begin{abstract}		% ABSTRACT
+  \input{abstract.tex}
+\end{abstract}
+	
+\begin{center}
+	\rule[0mm]{150mm}{0.1mm}
+\end{center}
+
+\section{Actividad}
+	\input{activity.tex}
+
+\section{Simulación estructural y electrónico del ​silicio​.}
+	\input{silicio.tex}
+
+\section{Simulación estructural y electrónico del ​siliceno​.}
+	\input{siliceno.tex}
+
+\bibliographystyle{unsrt}
+\nocite{*}
+\bibliography{sample}
+
+\end{document}

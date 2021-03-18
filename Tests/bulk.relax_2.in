@@ -1,0 +1,41 @@
+&CONTROL
+  calculation = 'scf',
+  prefix='arsenico',
+  pseudo_dir='/home/jesus/Documentos/Nanociencia_DFT/pseudopotenciales',
+  outdir='/home/jesus/Documentos/Nanociencia_DFT',
+  restart_mode = 'from_scratch',
+  wf_collect = .true.,
+/
+&SYSTEM
+  ibrav = 4,
+  a = 3.7598,
+  c = 10.5475,
+  nat = 6,
+  ntyp = 2,
+  ecutwfc = 30,
+  ecutrho = 240,
+  occupations = 'smearing',
+  smearing = 'm-p',
+  degauss = 0.01,
+/
+&ELECTRONS  
+/
+&IONS
+/
+&CELL
+/
+ATOMIC_SPECIES
+As  74.9216  As.pbe-n-kjpaw_psl.1.0.0.UPF
+O   15.9994  O.pbe-n-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS { angstrom }
+As	   0.000000    0.000000    1.759800
+As	   1.879900    1.085361    0.506533
+O	   0.000000    2.170722    3.906533
+As	   1.879900    1.085361    5.159800
+O	   0.000000    0.000000    7.659800
+As	   0.000000    2.170722    8.9136
+K_POINTS { automatic }
+7 7 7 0 0 0
+
+
