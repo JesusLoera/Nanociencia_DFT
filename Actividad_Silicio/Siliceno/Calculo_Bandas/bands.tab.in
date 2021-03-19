@@ -1,0 +1,5 @@
+&bands
+ prefix='test',
+ outdir='/home/jesus/Documentos/Nanociencia_DFT',
+ filband='silicene_bands',
+/ 
