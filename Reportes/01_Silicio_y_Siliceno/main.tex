@@ -1,4 +1,4 @@
-% Elaborado por Jesús Loera, Cesar Valladares y Vrani Chavez
+% Elaborado por Jesús Loera
 
 \input{package.tex}
 
@@ -9,6 +9,7 @@
 \input{portada.tex}
 
 \tableofcontents			% Índice
+\newpage
 
 \begin{center}
 	\rule[0mm]{150mm}{0.1mm}		% Para dibujar una linea horizontal de
@@ -25,7 +26,10 @@
 	\end{center}
 
 \section{Actividad}	
-    \input{actividad.tex}        
+    \input{actividad.tex}  
+    
+\section{Métodos computacionales}
+    \input{metodos_computacionales.tex}
                             
 \section{Simulación estructural y electrónica del silicio.}	
     \input{silicio.tex}  
@@ -35,9 +39,10 @@
     
 \section{Datos estructurales del silicio, siliceno y silicano.}	
     \input{silicano.tex}      
-    
+
+\newpage    
 \bibliographystyle{unsrt}
 \nocite{*}
-\bibliography{referencias}
+\bibliography{Referencias}
 
 \end{document}

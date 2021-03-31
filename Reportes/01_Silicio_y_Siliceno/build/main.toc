@@ -1,6 +1,17 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Actividad}{1}{}%
-\contentsline {section}{\numberline {2}Simulación estructural y electrónica del silicio.}{2}{}%
-\contentsline {section}{\numberline {3}Simulación estructural y electrónica del siliceno.}{2}{}%
-\contentsline {section}{\numberline {4}Datos estructurales del silicio, siliceno y silicano.}{2}{}%
-\contentsline {section}{Referencias}{2}{}%
+\contentsline {section}{\numberline {1}Actividad}{2}{}%
+\contentsline {section}{\numberline {2}Métodos computacionales}{3}{}%
+\contentsline {section}{\numberline {3}Simulación estructural y electrónica del silicio.}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Optimización Ecutwfc [Silicio] }{5}{}%
+\contentsline {subsection}{\numberline {3.2}Optimización Ecutrho [Silicio] }{6}{}%
+\contentsline {subsection}{\numberline {3.3}Optimización K-points [Silicio] }{7}{}%
+\contentsline {subsection}{\numberline {3.4}Optimización Lattice parameter [Silicio] }{8}{}%
+\contentsline {subsection}{\numberline {3.5}Conclusiones [Silicio]}{9}{}%
+\contentsline {section}{\numberline {4}Simulación estructural y electrónica del siliceno.}{10}{}%
+\contentsline {subsection}{\numberline {4.1}Optimización K-points [Siliceno]}{12}{}%
+\contentsline {subsection}{\numberline {4.2}Optimización Lattice parameter (parámetro de red) [Siliceno]}{13}{}%
+\contentsline {subsection}{\numberline {4.3}Cálculo de bandas [Siliceno]}{14}{}%
+\contentsline {subsection}{\numberline {4.4}Densidad de estados sin considerar el spin [Siliceno]}{15}{}%
+\contentsline {subsection}{\numberline {4.5}Densidad de estados considerando el spin [Siliceno]}{16}{}%
+\contentsline {section}{\numberline {5}Datos estructurales del silicio, siliceno y silicano.}{17}{}%
+\contentsline {section}{Referencias}{18}{}%

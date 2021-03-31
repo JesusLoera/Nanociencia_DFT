@@ -4,45 +4,48 @@ The top-level auxiliary file: build/main.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: unsrt.bst
 Reallocating 'name_of_file' (item size: 1) to 12 items.
-Database file #1: referencias.bib
+Database file #1: Referencias.bib
+Warning--entry type for "WinNT" isn't style-file defined
+--line 23 of file Referencias.bib
 You've used 3 entries,
             1791 wiz_defined-function locations,
-            462 strings with 3872 characters,
-and the built_in function-call counts, 537 in all, are:
-= -- 44
-> -- 19
+            466 strings with 3997 characters,
+and the built_in function-call counts, 661 in all, are:
+= -- 55
+> -- 32
 < -- 0
-+ -- 8
-- -- 5
-* -- 28
-:= -- 89
++ -- 12
+- -- 9
+* -- 50
+:= -- 111
 add.period$ -- 8
 call.type$ -- 3
-change.case$ -- 2
+change.case$ -- 3
 chr.to.int$ -- 0
 cite$ -- 3
-duplicate$ -- 24
-empty$ -- 62
-format.name$ -- 5
-if$ -- 118
+duplicate$ -- 23
+empty$ -- 66
+format.name$ -- 9
+if$ -- 139
 int.to.chr$ -- 0
 int.to.str$ -- 3
-missing$ -- 3
+missing$ -- 2
 newline$ -- 17
 num.names$ -- 3
-pop$ -- 12
+pop$ -- 9
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 12
+skip$ -- 10
 stack$ -- 0
-substring$ -- 25
+substring$ -- 47
 swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 5
+while$ -- 7
 width$ -- 4
-write$ -- 31
+write$ -- 32
+(There was 1 warning)

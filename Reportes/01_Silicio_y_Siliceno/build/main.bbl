@@ -1,18 +1,19 @@
 \begin{thebibliography}{1}
 
-\bibitem{einstein}
-Albert Einstein.
-\newblock {Zur Elektrodynamik bewegter K{\"o}rper}. ({German}) [{On} the
-  electrodynamics of moving bodies].
-\newblock {\em Annalen der Physik}, 322(10):891--921, 1905.
+\bibitem{WinNT}
+Diego~Morachis Galindo.
+\newblock Simulación de la adsorción de aldehídos sobre siliceno
+  hidrogenado, 2016.
 
-\bibitem{latexcompanion}
-Michel Goossens, Frank Mittelbach, and Alexander Samarin.
-\newblock {\em The \LaTeX\ Companion}.
-\newblock Addison-Wesley, Reading, Massachusetts, 1993.
+\bibitem{arrieta2014sistemas}
+DI~Arrieta, YE~Huam{\'a}n, MC~Guti{\'e}rrez, RA~Montalvo, and PH~Rivera.
+\newblock Sistemas cristalinos bidimensionales.
+\newblock {\em Revista de investigaci{\'o}n de f{\'\i}sica}, 17(01):1--12,
+  2014.
 
-\bibitem{knuthwebsite}
-Donald Knuth.
-\newblock Knuth: Computers and typesetting.
+\bibitem{miro2014atlas}
+Pere Mir{\'o}, Martha Audiffred, and Thomas Heine.
+\newblock An atlas of two-dimensional materials.
+\newblock {\em Chemical Society Reviews}, 43(18):6537--6554, 2014.
 
 \end{thebibliography}
