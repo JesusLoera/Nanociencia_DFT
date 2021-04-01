@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex build/main"] 1617144865 "build/main.aux" "build/main.bbl" "build/main" 1617144869
+["bibtex build/main"] 1617243946 "build/main.aux" "build/main.bbl" "build/main" 1617243950
   "/home/jesus/.miktex/texmfs/install/bibtex/bst/bibtex/unsrt.bst" 1616085250 18030 1376b4b231b50c66211e47e42eda2875 ""
-  "Referencias.bib" 1617143122 838 ddf7738b29ef156785bbcbd3ca7ba0f7 ""
-  "build/main.aux" 1617144868 6848 e1379a6d16e4cc1fd18fbda79a9db0e4 "pdflatex"
+  "Referencias.bib" 1617243933 1242 5944bc6399edecd5621aa39b5e42d583 ""
+  "build/main.aux" 1617243949 6881 66bedf838d1f087f2f8410f6ca0895f6 "pdflatex"
   (generated)
   "build/main.blg"
   "build/main.bbl"
-["pdflatex"] 1617144866 "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex" "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf" "main" 1617144869
+["pdflatex"] 1617243946 "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex" "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf" "main" 1617243950
   "/home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk" 1616031111 28976 701bd753cfc250cbf4692b637f88d301 ""
   "/home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1616032250 31952 1be53e63ba6384b451eb939cfc9bbd39 ""
   "/home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk" 1617064478 40136 dbc5ed8c3c522199fbe22c934f7bde22 ""
@@ -191,14 +191,14 @@
   "/home/jesus/.miktex/texmfs/install/tex/latex/tocbibind/tocbibind.sty" 1616032593 8927 46f54e33fc9cef24f78ab3bc811cb63f ""
   "/home/jesus/.miktex/texmfs/install/tex/latex/vmargin/vmargin.sty" 1090548324 7055 c3592c64ef07461d60f98d60c5ce8835 ""
   "/home/jesus/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty" 1616085357 57049 74963e80d77be39a0b7442967b27c75b ""
-  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux" 1617144868 6848 e1379a6d16e4cc1fd18fbda79a9db0e4 ""
+  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux" 1617243949 6881 66bedf838d1f087f2f8410f6ca0895f6 ""
   "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex" 1617078256 958 7e4a966de1deb022830104479ab8a8fe ""
   "Silicio_scf_init.png" 1617065477 39006 2cf4c1f3f77b35bfefdcfdbce01532ea ""
   "abstract.tex" 1616110100 501 fdfadac88cca363e832004e70c072e5c ""
   "actividad.tex" 1617066124 895 0df3e3eee976185edf37d47ed41887da ""
-  "build/main.aux" 1617144868 6848 e1379a6d16e4cc1fd18fbda79a9db0e4 "pdflatex"
-  "build/main.bbl" 1617144865 607 474e13dcbb19344dc103b6e8f976e4dc "bibtex build/main"
-  "build/main.toc" 1617144868 1407 cbd9b8987439e4a9ccdf8e8160cfc738 "pdflatex"
+  "build/main.aux" 1617243949 6881 66bedf838d1f087f2f8410f6ca0895f6 "pdflatex"
+  "build/main.bbl" 1617243946 914 d2473a6a2c42878d96cc3d2690846118 "bibtex build/main"
+  "build/main.toc" 1617243949 1407 cbd9b8987439e4a9ccdf8e8160cfc738 "pdflatex"
   "images/ecutwfc_vs_t_energy.png" 1617068063 46820 1ad49c2c772d74a9dfa72043c3957175 ""
   "images/k_points_vs_T_energy.png" 1617072217 43315 e199d369a0a5443d3a57297a145ef8cc ""
   "images/k_points_vs_T_energy_neighborhood.png" 1617072217 52439 4d1e4da872d94e4f3e79fe739a4c2d0c ""
@@ -223,9 +223,9 @@
   "siliceno.tex" 1617144861 8584 003bc53c322003c76d9dfd5c3ceb0474 ""
   "silicio.tex" 1617085145 6848 974bda3efb2a68ae518087af0598f987 ""
   (generated)
+  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf"
   "build/main.log"
   "build/main.toc"
-  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.log"
   "build/main.pdf"
-  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf"
+  "/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.log"
   "build/main.aux"

@@ -1,0 +1,7 @@
+&PROJWFC
+  prefix ='silicano_con_spin',
+  outdir ='/home/jesus/Documentos/Nanociencia_DFT',
+  ngauss = 1,
+  degauss = 0.01,
+  DeltaE = 0.05,
+/ 

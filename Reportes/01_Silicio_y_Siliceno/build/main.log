@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  30 MAR 2021 16:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  31 MAR 2021 20:25
 entering extended mode
 **/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
 (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
@@ -653,17 +653,17 @@ LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 28905 strings out of 479329
- 701942 string characters out of 2861679
- 1199589 words of memory out of 3000000
- 45923 multiletter control sequences out of 15000+200000
+ 28906 strings out of 479329
+ 701963 string characters out of 2861679
+ 1199593 words of memory out of 3000000
+ 45924 multiletter control sequences out of 15000+200000
  418237 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,9n,106p,487b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc2488.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (19 pages, 1071297 bytes).
+Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (19 pages, 1073757 bytes).
 PDF statistics:
- 490 PDF objects out of 1000 (max. 8388607)
+ 496 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 

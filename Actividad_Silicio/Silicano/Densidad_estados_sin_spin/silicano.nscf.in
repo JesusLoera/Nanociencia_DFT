@@ -1,0 +1,53 @@
+&CONTROL
+  calculation = 'nscf',
+  prefix='silicano',
+  pseudo_dir='/home/jesus/Nanociencia_DFT/pseudopotenciales',
+  outdir='/home/jesus/Documentos/Nanociencia_DFT',
+  restart_mode = 'from_scratch',
+  nstep = 1,
+  etot_conv_thr = 1.0D-4,
+  forc_conv_thr = 1.0D-3,
+/
+&SYSTEM
+  ibrav = 0,
+  nat = 4,
+  ntyp = 2,
+  ecutwfc = 35,
+  ecutrho = 210,
+  occupations = 'smearing',
+  smearing = 'm-p',
+  degauss = 0.01,
+  a= 3.9,
+  nbnd= 10,
+/
+&ELECTRONS
+  electron_maxstep=100,
+  conv_thr=1.D-6,
+  mixing_mode='plain',
+  mixing_beta=0.7,
+/
+&IONS
+  ion_dynamics='bfgs',
+/
+&CELL
+  cell_dynamics='bfgs',
+  cell_dofree='all',
+/
+
+CELL_PARAMETERS { alat }
+0.500 0.866 0.000
+-0.500 0.866 0.000
+0.000 0.000 5.144
+
+ATOMIC_SPECIES
+Si 28.0855  Si.pbe-n-rrkjus_psl.1.0.0.UPF
+H  1.008    H.pbe-kjpaw_psl.1.0.0.UPF
+
+ATOMIC_POSITIONS { crystal }
+H            -0.0000007558       -0.0000007558        0.0000352525
+Si           -0.0000790640       -0.0000790640        0.0750311007
+Si            0.3330791284        0.3330791284        0.1109758074
+H             0.3330006914        0.3330006914        0.1859578394
+
+K_POINTS { automatic }
+40 40 1 0 0 0

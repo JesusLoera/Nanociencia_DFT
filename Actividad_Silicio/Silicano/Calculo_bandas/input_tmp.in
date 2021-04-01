@@ -1,0 +1,5 @@
+&bands
+ prefix='silicano',
+ outdir='/home/jesus/Documentos/Nanociencia_DFT',
+ filband='silicano_bands',
+/

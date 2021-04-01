@@ -8,7 +8,7 @@ def collector(archivo, line_energy):
 
     DATA=np.array([])
 
-    for i in range (2,13):
+    for i in range (1,22):
 
         archivo_aux = archivo + '.' + str(i) + '.out'
 

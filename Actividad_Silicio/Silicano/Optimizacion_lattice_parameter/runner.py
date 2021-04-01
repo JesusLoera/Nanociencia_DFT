@@ -12,7 +12,7 @@ directory = 'silicano'
 pwx = '/home/jesus/qe-6.6-ReleasePack/qe-6.6/bin/pw.x'
 
 
-for i in range (1,13):
+for i in range (1,22):
 
     directory_aux = directory + '.' + str(i)
     input_aux = '<' + directory_aux + '.in' + '>' 
