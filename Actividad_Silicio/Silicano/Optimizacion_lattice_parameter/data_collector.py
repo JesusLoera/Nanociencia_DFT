@@ -8,7 +8,7 @@ def collector(archivo, line_energy):
 
     DATA=np.array([])
 
-    for i in range (1,22):
+    for i in range (1,12):
 
         archivo_aux = archivo + '.' + str(i) + '.out'
 
@@ -24,7 +24,7 @@ def collector(archivo, line_energy):
 
     return DATA
 
-archivo = 'silicano'
+archivo = 'silicano_third'
 
 line_energy = '!    total energy              =     '
 

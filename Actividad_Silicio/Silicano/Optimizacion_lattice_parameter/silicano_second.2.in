@@ -17,7 +17,7 @@
   occupations = 'smearing',
   smearing = 'm-p',
   degauss = 0.01,
-  a= 4.6,
+  a= 3.86,
 /
 &ELECTRONS
   electron_maxstep=100,
@@ -40,7 +40,7 @@ CELL_PARAMETERS { alat }
 
 ATOMIC_SPECIES
 Si 28.0855  Si.pbe-n-rrkjus_psl.1.0.0.UPF
-H  1.008    H.pbe-kjpaw_psl.1.0.0.UPF
+H  1.008     H.pbe-rrkjus_psl.1.0.0.UPF
 
 ATOMIC_POSITIONS { crystal }
 H  0.000 0.000 0.000

@@ -13,5 +13,12 @@
 \contentsline {subsection}{\numberline {4.3}Cálculo de bandas [Siliceno]}{14}{}%
 \contentsline {subsection}{\numberline {4.4}Densidad de estados sin considerar el spin [Siliceno]}{15}{}%
 \contentsline {subsection}{\numberline {4.5}Densidad de estados considerando el spin [Siliceno]}{16}{}%
-\contentsline {section}{\numberline {5}Datos estructurales del silicio, siliceno y silicano.}{17}{}%
-\contentsline {section}{Referencias}{18}{}%
+\contentsline {section}{\numberline {5}Datos estructurales del silicio, siliceno y silicano.}{18}{}%
+\contentsline {subsection}{\numberline {5.1}Optimización Ecutwfc [Silicano]}{20}{}%
+\contentsline {subsection}{\numberline {5.2}Optimización Ecutrho [Silicano]}{21}{}%
+\contentsline {subsection}{\numberline {5.3}Optimización K-points [Silicano]}{22}{}%
+\contentsline {subsection}{\numberline {5.4}Optimización Lattice parameter (parámetro de red) [Silicano]}{23}{}%
+\contentsline {subsection}{\numberline {5.5}Cálculo de bandas [Silicano]}{24}{}%
+\contentsline {subsection}{\numberline {5.6}Densidad de estados sin considerar spin [Silicano]}{25}{}%
+\contentsline {subsection}{\numberline {5.7}Densidad de estados considerando el spin [Silicano]}{26}{}%
+\contentsline {section}{Referencias}{27}{}%

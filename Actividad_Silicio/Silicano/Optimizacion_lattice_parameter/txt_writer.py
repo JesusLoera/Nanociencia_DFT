@@ -62,7 +62,7 @@ def modificarFuente(archive,buscar,reemplazar):
 
 a_i = 3.0
 
-a_f = 5.0
+a_f = 4.5
 dx = 0.1
 
 directory = 'silicano'

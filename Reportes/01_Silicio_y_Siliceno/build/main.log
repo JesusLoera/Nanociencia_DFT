@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  31 MAR 2021 20:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  1 APR 2021 16:18
 entering extended mode
 **/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
 (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
@@ -550,49 +550,49 @@ Package pdftex.def Info: logo_header.jpg  used on input line 27.
 <Silicio_scf_init.png, id=27, 297.11pt x 297.11pt>
 File: Silicio_scf_init.png Graphic file (type png)
 <use Silicio_scf_init.png>
-Package pdftex.def Info: Silicio_scf_init.png  used on input line 19.
+Package pdftex.def Info: Silicio_scf_init.png  used on input line 18.
 (pdftex.def)             Requested size: 148.55463pt x 148.55463pt.
  [4 <./Silicio_scf_init.png>]
-<images/ecutwfc_vs_t_energy.png, id=31, 1169.36874pt x 573.14125pt>
+<images/ecutwfc_vs_t_energy.png, id=35, 1169.36874pt x 573.14125pt>
 File: images/ecutwfc_vs_t_energy.png Graphic file (type png)
 <use images/ecutwfc_vs_t_energy.png>
-Package pdftex.def Info: images/ecutwfc_vs_t_energy.png  used on input line 70.
+Package pdftex.def Info: images/ecutwfc_vs_t_energy.png  used on input line 69.
 (pdftex.def)             Requested size: 420.97243pt x 206.33069pt.
  [5 <./images/ecutwfc_vs_t_energy.png>]
-<images/k_vs_T_energy.png, id=38, 987.2082pt x 464.6961pt>
+<images/k_vs_T_energy.png, id=42, 987.2082pt x 464.6961pt>
 File: images/k_vs_T_energy.png Graphic file (type png)
 <use images/k_vs_T_energy.png>
-Package pdftex.def Info: images/k_vs_T_energy.png  used on input line 103.
+Package pdftex.def Info: images/k_vs_T_energy.png  used on input line 102.
 (pdftex.def)             Requested size: 513.35123pt x 241.64336pt.
 
-Overfull \hbox (43.88077pt too wide) in paragraph at lines 103--104
+Overfull \hbox (43.88077pt too wide) in paragraph at lines 102--103
  [][] 
  []
 
 [6 <./images/k_vs_T_energy.png>]
-<images/k_points_vs_T_energy.png, id=48, 987.2082pt x 464.6961pt>
+<images/k_points_vs_T_energy.png, id=50, 987.2082pt x 464.6961pt>
 File: images/k_points_vs_T_energy.png Graphic file (type png)
 <use images/k_points_vs_T_energy.png>
-Package pdftex.def Info: images/k_points_vs_T_energy.png  used on input line 124.
+Package pdftex.def Info: images/k_points_vs_T_energy.png  used on input line 123.
 (pdftex.def)             Requested size: 454.12129pt x 213.7628pt.
-<images/k_points_vs_T_energy_neighborhood.png, id=49, 987.2082pt x 464.6961pt>
+<images/k_points_vs_T_energy_neighborhood.png, id=51, 987.2082pt x 464.6961pt>
 File: images/k_points_vs_T_energy_neighborhood.png Graphic file (type png)
 <use images/k_points_vs_T_energy_neighborhood.png>
-Package pdftex.def Info: images/k_points_vs_T_energy_neighborhood.png  used on input line 132.
+Package pdftex.def Info: images/k_points_vs_T_energy_neighborhood.png  used on input line 131.
 (pdftex.def)             Requested size: 454.12129pt x 213.7628pt.
  [7 <./images/k_points_vs_T_energy.png> <./images/k_points_vs_T_energy_neighborhood.png>]
-<images/lattice_parameter_vs_T_energy.png, id=55, 987.2082pt x 464.6961pt>
+<images/lattice_parameter_vs_T_energy.png, id=57, 987.2082pt x 464.6961pt>
 File: images/lattice_parameter_vs_T_energy.png Graphic file (type png)
 <use images/lattice_parameter_vs_T_energy.png>
-Package pdftex.def Info: images/lattice_parameter_vs_T_energy.png  used on input line 157.
+Package pdftex.def Info: images/lattice_parameter_vs_T_energy.png  used on input line 156.
 (pdftex.def)             Requested size: 513.35123pt x 241.64336pt.
 
-Overfull \hbox (43.88077pt too wide) in paragraph at lines 157--158
+Overfull \hbox (43.88077pt too wide) in paragraph at lines 156--157
  [][] 
  []
 
 [8 <./images/lattice_parameter_vs_T_energy.png>] [9]) (siliceno.tex
-<images/silicene_cell.png, id=63, 468.75125pt x 324.21124pt>
+<images/silicene_cell.png, id=65, 468.75125pt x 324.21124pt>
 File: images/silicene_cell.png Graphic file (type png)
 <use images/silicene_cell.png>
 Package pdftex.def Info: images/silicene_cell.png  used on input line 11.
@@ -629,41 +629,108 @@ Overfull \hbox (24.13243pt too wide) in paragraph at lines 108--109
 <images_siliceno/bands_structure.png, id=86, 1026.83624pt x 482.55281pt>
 File: images_siliceno/bands_structure.png Graphic file (type png)
 <use images_siliceno/bands_structure.png>
-Package pdftex.def Info: images_siliceno/bands_structure.png  used on input line 129.
+Package pdftex.def Info: images_siliceno/bands_structure.png  used on input line 130.
 (pdftex.def)             Requested size: 462.07204pt x 217.14674pt.
 <images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png, id=87, 853.1875pt x 294.09875pt>
 File: images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png Graphic file (type png)
 <use images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png>
-Package pdftex.def Info: images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png  used on input line 137.
+Package pdftex.def Info: images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png  used on input line 138.
 (pdftex.def)             Requested size: 426.59271pt x 147.04901pt.
  [14 <./images_siliceno/bands_structure.png (PNG copy)> <./images_siliceno/Band-structures-of-graphene-left-silicene-centre-and-germanene-right-Valence-and.png>]
 <images_siliceno/plot_sin_spin.png, id=91, 1202.99437pt x 602.25pt>
 File: images_siliceno/plot_sin_spin.png Graphic file (type png)
 <use images_siliceno/plot_sin_spin.png>
-Package pdftex.def Info: images_siliceno/plot_sin_spin.png  used on input line 184.
+Package pdftex.def Info: images_siliceno/plot_sin_spin.png  used on input line 186.
 (pdftex.def)             Requested size: 457.14261pt x 228.85738pt.
  [15 <./images_siliceno/plot_sin_spin.png (PNG copy)>]
 <images_siliceno/densidad_estados_con_spin.png, id=95, 1202.99437pt x 602.25pt>
 File: images_siliceno/densidad_estados_con_spin.png Graphic file (type png)
 <use images_siliceno/densidad_estados_con_spin.png>
-Package pdftex.def Info: images_siliceno/densidad_estados_con_spin.png  used on input line 231.
+Package pdftex.def Info: images_siliceno/densidad_estados_con_spin.png  used on input line 233.
 (pdftex.def)             Requested size: 457.14261pt x 228.85738pt.
- [16 <./images_siliceno/densidad_estados_con_spin.png (PNG copy)>]) (silicano.tex) [17] (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.bbl) [18] (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux
+<images_siliceno/silicio_energía_orbitales.png, id=96, 1156.32pt x 579.6054pt>
+File: images_siliceno/silicio_energía_orbitales.png Graphic file (type png)
+<use images_siliceno/silicio_energía_orbitales.png>
+Package pdftex.def Info: images_siliceno/silicio_energía_orbitales.png  used on input line 241.
+(pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
+ [16 <./images_siliceno/densidad_estados_con_spin.png (PNG copy)>] [17 <./images_siliceno/silicio_energía_orbitales.png>]) (silicano.tex
+<images_silicano/silicano_structure.png, id=104, 1471.4975pt x 795.97375pt>
+File: images_silicano/silicano_structure.png Graphic file (type png)
+<use images_silicano/silicano_structure.png>
+Package pdftex.def Info: images_silicano/silicano_structure.png  used on input line 11.
+(pdftex.def)             Requested size: 441.45267pt x 238.79396pt.
+<images_silicano/silicano_structure_2.png, id=105, 1423.3175pt x 352.31625pt>
+File: images_silicano/silicano_structure_2.png Graphic file (type png)
+<use images_silicano/silicano_structure_2.png>
+Package pdftex.def Info: images_silicano/silicano_structure_2.png  used on input line 19.
+(pdftex.def)             Requested size: 426.99855pt x 105.69568pt.
+ [18 <./images_silicano/silicano_structure.png> <./images_silicano/silicano_structure_2.png>] [19]
+<images_silicano/Ecutwfc_vs_Energy.png, id=113, 1368.11125pt x 708.6475pt>
+File: images_silicano/Ecutwfc_vs_Energy.png Graphic file (type png)
+<use images_silicano/Ecutwfc_vs_Energy.png>
+Package pdftex.def Info: images_silicano/Ecutwfc_vs_Energy.png  used on input line 80.
+(pdftex.def)             Requested size: 437.80455pt x 226.77184pt.
+ [20 <./images_silicano/Ecutwfc_vs_Energy.png>]
+<images_silicano/K_in_ecutrho_vs_Energy.png, id=118, 1380.15625pt x 707.64375pt>
+File: images_silicano/K_in_ecutrho_vs_Energy.png Graphic file (type png)
+<use images_silicano/K_in_ecutrho_vs_Energy.png>
+Package pdftex.def Info: images_silicano/K_in_ecutrho_vs_Energy.png  used on input line 118.
+(pdftex.def)             Requested size: 455.45297pt x 233.52316pt.
+ [21 <./images_silicano/K_in_ecutrho_vs_Energy.png>]
+<images_silicano/K_points_vs_Energy.png, id=123, 1358.07375pt x 703.62875pt>
+File: images_silicano/K_points_vs_Energy.png Graphic file (type png)
+<use images_silicano/K_points_vs_Energy.png>
+Package pdftex.def Info: images_silicano/K_points_vs_Energy.png  used on input line 150.
+(pdftex.def)             Requested size: 448.16573pt x 232.1982pt.
+ [22 <./images_silicano/K_points_vs_Energy.png>]
+<images_silicano/Lattice_parameter_vs_Energy.png, id=128, 1343.0175pt x 703.62875pt>
+File: images_silicano/Lattice_parameter_vs_Energy.png Graphic file (type png)
+<use images_silicano/Lattice_parameter_vs_Energy.png>
+Package pdftex.def Info: images_silicano/Lattice_parameter_vs_Energy.png  used on input line 184.
+(pdftex.def)             Requested size: 443.19714pt x 232.1982pt.
+ [23 <./images_silicano/Lattice_parameter_vs_Energy.png>]
+<images_silicano/bands_structure_silicane_10_bands_relax.png, id=133, 1026.83624pt x 482.55281pt>
+File: images_silicano/bands_structure_silicane_10_bands_relax.png Graphic file (type png)
+<use images_silicano/bands_structure_silicane_10_bands_relax.png>
+Package pdftex.def Info: images_silicano/bands_structure_silicane_10_bands_relax.png  used on input line 207.
+(pdftex.def)             Requested size: 462.07204pt x 217.14674pt.
+<images_silicano/Bandstructure-of-a-silicane-and-b-germanane.png, id=134, 853.1875pt x 412.54124pt>
+File: images_silicano/Bandstructure-of-a-silicane-and-b-germanane.png Graphic file (type png)
+<use images_silicano/Bandstructure-of-a-silicane-and-b-germanane.png>
+Package pdftex.def Info: images_silicano/Bandstructure-of-a-silicane-and-b-germanane.png  used on input line 215.
+(pdftex.def)             Requested size: 426.59271pt x 206.27011pt.
+ [24 <./images_silicano/bands_structure_silicane_10_bands_relax.png (PNG copy)> <./images_silicano/Bandstructure-of-a-silicane-and-b-germanane.png>]
+<images_silicano/Densidades_estado_sin_spin.png, id=139, 1202.99437pt x 602.25pt>
+File: images_silicano/Densidades_estado_sin_spin.png Graphic file (type png)
+<use images_silicano/Densidades_estado_sin_spin.png>
+Package pdftex.def Info: images_silicano/Densidades_estado_sin_spin.png  used on input line 248.
+(pdftex.def)             Requested size: 457.14261pt x 228.85738pt.
+ [25 <./images_silicano/Densidades_estado_sin_spin.png (PNG copy)>]
+File: images_siliceno/densidad_estados_con_spin.png Graphic file (type png)
+<use images_siliceno/densidad_estados_con_spin.png>
+Package pdftex.def Info: images_siliceno/densidad_estados_con_spin.png  used on input line 273.
+(pdftex.def)             Requested size: 396.98936pt x 198.7431pt.
+<images_silicano/Desnidad_por orbital.png, id=143, 1309.89375pt x 694.595pt>
+File: images_silicano/Desnidad_por orbital.png Graphic file (type png)
+<use images_silicano/Desnidad_por orbital.png>
+Package pdftex.def Info: images_silicano/Desnidad_por orbital.png  used on input line 281.
+(pdftex.def)             Requested size: 392.97116pt x 208.38011pt.
+ [26 <./images_silicano/Desnidad_por orbital.png>]) (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.bbl) [27] (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux
 LaTeX Info: Redefining \. on input line 8.
 LaTeX Info: Redefining \% on input line 8.
 ) ) 
 Here is how much of TeX's memory you used:
- 28906 strings out of 479329
- 701963 string characters out of 2861679
- 1199593 words of memory out of 3000000
- 45924 multiletter control sequences out of 15000+200000
+ 28974 strings out of 479329
+ 705020 string characters out of 2861679
+ 1199602 words of memory out of 3000000
+ 45980 multiletter control sequences out of 15000+200000
  418237 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,9n,106p,487b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc2488.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (19 pages, 1073757 bytes).
+Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (28 pages, 1934451 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
+ 550 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 148 words of extra memory for PDF output out of 10000 (max. 10000000)
 

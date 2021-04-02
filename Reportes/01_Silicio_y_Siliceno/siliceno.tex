@@ -92,7 +92,7 @@ la variable independiente (i) empieza a tomar valores a partir de 7.
 
 Ahora vamos a buscar optimizar el valor del paramétro de red, haremos una inspección probando valores
 en el siguiente intervalo [3.0, 4.5].
-
+ 
 \vspace{0.5cm}
 
 Buscamos obtener un valor mínimo para el paramétro de red de tal manera que podamos observar una convergencia 
@@ -118,9 +118,10 @@ la variable independiente (paramétro de red) empieza a tomar valores cercanos a
 
 \subsection{Cálculo de bandas [Siliceno]}
 
-En el siguiente apartado damos una gráfica con la estructura electrónica de bandas del siliceno. Para 
-ello se hizo el cálculo dentro del mismo Quantum Espresso con el módulo pw.x, primero se hizo uno cálculo 
-del tipo scf y después otro del tipo bands.
+En el siguiente apartado damos una gráfica con la estructura electrónica de bandas del siliceno. 
+Para obtener esta estructura es necesario realizar la siguiente serie de cálculos.
+Primero realizamos un cálculo con el módulo pw.x, después otro cálculo 
+del tipo scf y por último uno del tipo bands.
 
 Se llegó al siguiente gráfico:
 
@@ -148,7 +149,8 @@ Observación: Las estructuras propia y de la literatura muestran semejanza.
 
 En el siguiente apartado damos una gráfica con la densidad de estados del siliceno. Para 
 ello se hizo el cálculo dentro del mismo Quantum Espresso con el módulo pw.x, primero se hizo uno cálculo 
-del tipo nscf y después otro del tipo DOS.
+del tipo nscf y después otro del tipo DOS. También para este momento se trabajó con la estructura
+ya relajada.
 
 \vspace{0.5cm}
 
@@ -230,6 +232,14 @@ Se llegó al siguiente gráfico:
     \centering
     \includegraphics[scale=0.38]{images_siliceno/densidad_estados_con_spin.png}
     \caption{Gráfica que nos muestra la densidad de estados del siliceno, considerando el spin.}
+\end{figure}
+
+A continuación proporcionaremos una gráfica que nos muestra la energía por nivel orbital.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.38]{images_siliceno/silicio_energía_orbitales.png}
+    \caption{Gráfica que nos muestra la energía en los orbitales del siliceno, considerando el spin.}
 \end{figure}
 
 \newpage
