@@ -8,7 +8,7 @@ def cmd(commando):
 
 
 
-directory = 'silicio'
+directory = 'silicio_second'
 pwx = '/home/jesus/qe-6.6-ReleasePack/qe-6.6/bin/pw.x'
 
 

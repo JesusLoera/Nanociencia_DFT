@@ -8,11 +8,11 @@ def cmd(commando):
 
 
 
-directory = 'siliceno'
+directory = 'siliceno_second'
 pwx = '/home/jesus/qe-6.6-ReleasePack/qe-6.6/bin/pw.x'
 
 
-for i in range (1,17):
+for i in range (1,12):
  
     directory_aux = directory + '.' + str(i)
     input_aux = '<' + directory_aux + '.in' + '>' 
