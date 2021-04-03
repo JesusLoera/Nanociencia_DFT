@@ -109,8 +109,51 @@ en saltos de 0.1 en 0.1 hasta alcanzar el valor de 4.5.
     \caption{Gráfica que nos muestra la energía total del sistema contra la variación del parámetro k, nos centramos en el intervalo [3.0, 4.5]}
 \end{figure}
 
-Observación: el valor de la variable dependiente (la energía total) empieza su convergencia cuando 
-la variable independiente (paramétro de red) empieza a tomar valores cercanos a 3.8.
+Observación:,La energía se minimiza cuando el parámetro de red empieza a tomar valores entre 3.8 y 3.9.
+
+\vspace{0.5cm}
+
+Vamos a realizar una segunda inspección, empezaremos en el 3.80 y terminaremos en 3.90, dando saltos
+de 0.01 en 0.01. Esto nos permitirá determinar otra cifra de precisión.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.42]{images_siliceno/lattice_parameter_second_vs_T_energy.png}
+    \caption{Gráfica que nos muestra la energía total del sistema contra la variación del parámetro red, nos centramos en el intervalo [3.80,3.90]}
+\end{figure}
+
+\noindent
+Observación: La energía se minimiza cuando el parámetro de red toma el valor de 3.892.
+
+\vspace{0.5cm}
+
+\noindent
+Ahora vamos a mostrar la estructura cristalina ya relajada.
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.34]{images_siliceno/longitud_enlace_2_2828_amstrongs.png}
+    \caption{La longitud del enlace mostrado es de 2.2828 amstrongs.}
+\end{figure}
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.34]{images_siliceno/longitud_enlace_3_8600_amstrongs.png}
+    \caption{La longitud del enlace mostrado es de 3.8600 amstrongs.}
+\end{figure}
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.34]{images_siliceno/longitud_enlace_4_4845_amstrongs.png}
+    \caption{La longitud del enlace mostrado es de 4.4845 amstrongs.}
+\end{figure}
+
 
 \newpage
 
@@ -187,6 +230,21 @@ Se llegó al siguiente gráfico:
     \caption{Gráfica que nos muestra la densidad de estados del siliceno, sin considerar el spin.}
 \end{figure}
 
+A continuación proporcionaremos una gráfica que nos muestra la energía por nivel orbital.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.38]{images_siliceno/siliceno_energía_orbitales_up_sin_spin.png}
+    \caption{Gráfica que nos muestra la densidad de estados en los orbitales del siliceno, sin considerar el spin [UP].}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.38]{images_siliceno/siliceno_energía_orbitales_down_sin_spin.png}
+    \caption{Gráfica que nos muestra la densidad de estados en los orbitales del siliceno, sin considerar el spin [DOWN].}
+\end{figure}
+
+
 % Densidad de estados considerando el spin [Siliceno]
 
 \newpage
@@ -238,8 +296,14 @@ A continuación proporcionaremos una gráfica que nos muestra la energía por ni
 
 \begin{figure}[H]
     \centering
-    \includegraphics[scale=0.38]{images_siliceno/silicio_energía_orbitales.png}
-    \caption{Gráfica que nos muestra la energía en los orbitales del siliceno, considerando el spin.}
+    \includegraphics[scale=0.38]{images_siliceno/silicio_energía_orbitales_up.png}
+    \caption{Gráfica que nos muestra la densidad de estados en los orbitales del siliceno, considerando el spin [UP].}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.38]{images_siliceno/siliceno_energía_orbitales_down.png}
+    \caption{Gráfica que nos muestra la densidad de estados en los orbitales del siliceno, considerando el spin [DOWN].}
 \end{figure}
 
 \newpage

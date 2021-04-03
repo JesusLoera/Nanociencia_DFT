@@ -7,45 +7,45 @@ Reallocating 'name_of_file' (item size: 1) to 12 items.
 Database file #1: Referencias.bib
 Warning--entry type for "WinNT" isn't style-file defined
 --line 23 of file Referencias.bib
-You've used 4 entries,
+You've used 7 entries,
             1791 wiz_defined-function locations,
-            473 strings with 4279 characters,
-and the built_in function-call counts, 914 in all, are:
-= -- 79
-> -- 43
+            498 strings with 6331 characters,
+and the built_in function-call counts, 2827 in all, are:
+= -- 143
+> -- 343
 < -- 0
-+ -- 16
-- -- 12
-* -- 72
-:= -- 151
-add.period$ -- 11
-call.type$ -- 4
-change.case$ -- 4
++ -- 117
+- -- 110
+* -- 317
+:= -- 539
+add.period$ -- 20
+call.type$ -- 7
+change.case$ -- 7
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 32
-empty$ -- 90
-format.name$ -- 12
-if$ -- 193
+cite$ -- 7
+duplicate$ -- 59
+empty$ -- 166
+format.name$ -- 110
+if$ -- 535
 int.to.chr$ -- 0
-int.to.str$ -- 4
-missing$ -- 3
-newline$ -- 22
-num.names$ -- 4
-pop$ -- 10
+int.to.str$ -- 7
+missing$ -- 6
+newline$ -- 37
+num.names$ -- 7
+pop$ -- 13
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 13
+skip$ -- 22
 stack$ -- 0
-substring$ -- 72
-swap$ -- 4
+substring$ -- 147
+swap$ -- 7
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 10
-width$ -- 5
-write$ -- 43
+while$ -- 16
+width$ -- 8
+write$ -- 76
 (There was 1 warning)

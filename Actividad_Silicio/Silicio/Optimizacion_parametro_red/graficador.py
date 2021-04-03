@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
  
 
-a_parameter = np.arange(4.40,4.50,0.01)
+a_parameter = np.arange(5.40,5.50,0.01)
 
 energy_ry = [
              -22.83843458,

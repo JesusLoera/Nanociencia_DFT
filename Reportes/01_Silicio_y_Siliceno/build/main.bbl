@@ -23,4 +23,38 @@ Shyam Trivedi, Anurag Srivastava, and Rajnish Kurchania.
 \newblock {\em Journal of Computational and Theoretical Nanoscience},
   11(3):781--788, 2014.
 
+\bibitem{QE-2017}
+P~Giannozzi, O~Andreussi, T~Brumme, O~Bunau, M~Buongiorno Nardelli, M~Calandra,
+  R~Car, C~Cavazzoni, D~Ceresoli, M~Cococcioni, N~Colonna, I~Carnimeo, A~Dal
+  Corso, S~de~Gironcoli, P~Delugas, R~A~DiStasio Jr, A~Ferretti, A~Floris,
+  G~Fratesi, G~Fugallo, R~Gebauer, U~Gerstmann, F~Giustino, T~Gorni, J~Jia,
+  M~Kawamura, H-Y Ko, A~Kokalj, E~Küçükbenli, M~Lazzeri, M~Marsili,
+  N~Marzari, F~Mauri, N~L Nguyen, H-V Nguyen, A~Otero de-la Roza, L~Paulatto,
+  S~Poncé, D~Rocca, R~Sabatini, B~Santra, M~Schlipf, A~P Seitsonen,
+  A~Smogunov, I~Timrov, T~Thonhauser, P~Umari, N~Vast, X~Wu, and S~Baroni.
+\newblock Advanced capabilities for materials modelling with quantum espresso.
+\newblock {\em Journal of Physics: Condensed Matter}, 29(46):465901, 2017.
+
+\bibitem{QE-2009}
+Paolo Giannozzi, Stefano Baroni, Nicola Bonini, Matteo Calandra, Roberto Car,
+  Carlo Cavazzoni, Davide Ceresoli, Guido~L Chiarotti, Matteo Cococcioni,
+  Ismaila Dabo, Andrea {Dal Corso}, Stefano de~Gironcoli, Stefano Fabris, Guido
+  Fratesi, Ralph Gebauer, Uwe Gerstmann, Christos Gougoussis, Anton Kokalj,
+  Michele Lazzeri, Layla Martin-Samos, Nicola Marzari, Francesco Mauri,
+  Riccardo Mazzarello, Stefano Paolini, Alfredo Pasquarello, Lorenzo Paulatto,
+  Carlo Sbraccia, Sandro Scandolo, Gabriele Sclauzero, Ari~P Seitsonen,
+  Alexander Smogunov, Paolo Umari, and Renata~M Wentzcovitch.
+\newblock Quantum espresso: a modular and open-source software project for
+  quantum simulations of materials.
+\newblock {\em Journal of Physics: Condensed Matter}, 21(39):395502 (19pp),
+  2009.
+
+\bibitem{doi:10.1063/5.0005082}
+Paolo Giannozzi, Oscar Baseggio, Pietro Bonfà, Davide Brunato, Roberto Car,
+  Ivan Carnimeo, Carlo Cavazzoni, Stefano de~Gironcoli, Pietro Delugas,
+  Fabrizio Ferrari~Ruffino, Andrea Ferretti, Nicola Marzari, Iurii Timrov,
+  Andrea Urru, and Stefano Baroni.
+\newblock Quantum espresso toward the exascale.
+\newblock {\em The Journal of Chemical Physics}, 152(15):154105, 2020.
+
 \end{thebibliography}

@@ -153,33 +153,35 @@ en saltos de 0.1 en 0.1 hasta alcanzar el valor de 6.4.
 
 \begin{figure}[H]
     \centering
-    \includegraphics[scale=0.52]{images/lattice_parameter_vs_T_energy.png}
-    \caption{Gráfica que nos muestra la energía total del sistema contra la variación del parámetro k, nos centramos en el intervalo [4.4,6.4]}
+    \includegraphics[scale=0.38]{images/lattice_parameter_vs_T_energy.png}
+    \caption{Gráfica que nos muestra la energía total del sistema contra la variación del parámetro de red, nos centramos en el intervalo [4.4,6.4]}
 \end{figure}
 
-Observación: el valor de la variable dependiente (la energía total) empieza su convergencia cuando 
-la variable independiente (paramétro de red) empieza a tomar valores cercanos a 5.5.
+Observación:,La energía se minimiza cuando el parámetro de red empieza a tomar valores entre 5.4 y 5.5.
 
-\newpage
+\vspace{0.5cm}
 
-\subsection{Conclusiones [Silicio]}
+Vamos a realizar una segunda inspección, empezaremos en el 5.40 y terminaremos en 5.49, dando saltos
+de 0.01 en 0.01. Esto nos permitirá determinar otra cifra de precisión.
 
-Los resultados de la optimización del silicio nos llevan a elegir los siguientes valores como aquellos
-óptimos luego de hacer los cálculos, los gráficos y el analísis de cada optimización.
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.34]{images/lattice_parameter_vs_T_energy_second.png}
+    \caption{Gráfica que nos muestra la energía total del sistema contra la variación del parámetro red, nos centramos en el intervalo [5.40,5.49]}
+\end{figure}
 
-\begin{table}[H]
-    \begin{center}
-        \begin{tabular}{| c | c |}
-            \hline
-            \multicolumn{2}{ |c| }{\textbf{Parámetros optimizados}} \\ \hline
-            Ecutwfc & 30 \\ \hline
-            K en Ecutrho & 8 \\ \hline
-            i & 8 \\ \hline
-            Parámetro de red & 5.5 \\ \hline
-        \end{tabular}
-        \caption{Valores elegidos después de cada optimización.}
-        \label{tab: Parametros del Silicio optimizados}
-    \end{center}
-\end{table}
+Observación: La energía se minimiza cuando el parámetro de red toma el valor de 5.47.
+
+\vspace{0.5cm}
+
+Ahora vamos a mostrar la estructura cristalina ya relajada.
+
+\vspace{0.5cm}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.34]{images/longitud_enlace_5_4700_amstrongs.png}
+    \caption{La longitud del enlace mostrado es de 5.4700 amstrongs.}
+\end{figure}
 
 \newpage
