@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{Resumen}{1}{0}{1}
+\beamer@sectionintoc {2}{Actividad}{4}{0}{2}
+\beamer@sectionintoc {3}{Silicio}{13}{0}{3}
+\beamer@sectionintoc {4}{Siliceno}{15}{0}{4}
+\beamer@sectionintoc {5}{Silicano}{24}{0}{5}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  2 APR 2021 19:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.3.18)  11 APR 2021 21:08
 entering extended mode
 **/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
 (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/main.tex
@@ -540,7 +540,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [1] (abstract.tex) (actividad.tex) (metodos_computacionales.tex [2]
+ [1] (abstract.tex) (actividad.tex [2]) (metodos_computacionales.tex
 <logo_header.jpg, id=23, 443.6575pt x 190.7125pt>
 File: logo_header.jpg Graphic file (type jpg)
 <use logo_header.jpg>
@@ -825,49 +825,50 @@ Package pdftex.def Info: images_silicano/Densidades_estado_sin_spin.png  used on
 <images_silicano/Densidad_estados_sin_spin_up.png, id=183, 1299.85625pt x 700.6175pt>
 File: images_silicano/Densidad_estados_sin_spin_up.png Graphic file (type png)
 <use images_silicano/Densidad_estados_sin_spin_up.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_up.png  used on input line 311.
+Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_up.png  used on input line 312.
 (pdftex.def)             Requested size: 363.95728pt x 196.17155pt.
-<images_silicano/Densidad_estados_sin_spin_down.png, id=184, 1156.32pt x 579.6054pt>
+ [32 <./images_silicano/Densidades_estado_sin_spin.png (PNG copy)>]
+<images_silicano/Densidad_estados_sin_spin_down.png, id=187, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_sin_spin_down.png Graphic file (type png)
 <use images_silicano/Densidad_estados_sin_spin_down.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_down.png  used on input line 317.
+Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_down.png  used on input line 318.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
- [32 <./images_silicano/Densidades_estado_sin_spin.png (PNG copy)> <./images_silicano/Densidad_estados_sin_spin_up.png>]
-<images_silicano/Densidad_estados_sin_spin_up_elementos.png, id=189, 1156.32pt x 579.6054pt>
+<images_silicano/Densidad_estados_sin_spin_up_elementos.png, id=188, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_sin_spin_up_elementos.png Graphic file (type png)
 <use images_silicano/Densidad_estados_sin_spin_up_elementos.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_up_elementos.png  used on input line 327.
+Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_up_elementos.png  used on input line 328.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
-<images_silicano/Densidad_estados_sin_spin_down_elementos.png, id=190, 1156.32pt x 579.6054pt>
+ [33 <./images_silicano/Densidad_estados_sin_spin_up.png> <./images_silicano/Densidad_estados_sin_spin_down.png>]
+<images_silicano/Densidad_estados_sin_spin_down_elementos.png, id=194, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_sin_spin_down_elementos.png Graphic file (type png)
 <use images_silicano/Densidad_estados_sin_spin_down_elementos.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_down_elementos.png  used on input line 333.
+Package pdftex.def Info: images_silicano/Densidad_estados_sin_spin_down_elementos.png  used on input line 334.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
- [33 <./images_silicano/Densidad_estados_sin_spin_down.png> <./images_silicano/Densidad_estados_sin_spin_up_elementos.png>] [34 <./images_silicano/Densidad_estados_sin_spin_down_elementos.png>]
+ [34 <./images_silicano/Densidad_estados_sin_spin_up_elementos.png> <./images_silicano/Densidad_estados_sin_spin_down_elementos.png>]
 File: images_siliceno/densidad_estados_con_spin.png Graphic file (type png)
 <use images_siliceno/densidad_estados_con_spin.png>
-Package pdftex.def Info: images_siliceno/densidad_estados_con_spin.png  used on input line 358.
+Package pdftex.def Info: images_siliceno/densidad_estados_con_spin.png  used on input line 359.
 (pdftex.def)             Requested size: 396.98936pt x 198.7431pt.
 <images_silicano/Densidad_estados_con_spin_up_1s.png, id=200, 1313.90875pt x 703.62875pt>
 File: images_silicano/Densidad_estados_con_spin_up_1s.png Graphic file (type png)
 <use images_silicano/Densidad_estados_con_spin_up_1s.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_up_1s.png  used on input line 366.
+Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_up_1s.png  used on input line 367.
 (pdftex.def)             Requested size: 394.17567pt x 211.09026pt.
 <images_silicano/Densidad_estados_con_spin_down.png, id=201, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_con_spin_down.png Graphic file (type png)
 <use images_silicano/Densidad_estados_con_spin_down.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_down.png  used on input line 372.
+Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_down.png  used on input line 373.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
  [35 <./images_silicano/Densidad_estados_con_spin_up_1s.png>]
 <images_silicano/Densidad_estados_con_spin_up_elementos.png, id=206, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_con_spin_up_elementos.png Graphic file (type png)
 <use images_silicano/Densidad_estados_con_spin_up_elementos.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_up_elementos.png  used on input line 382.
+Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_up_elementos.png  used on input line 383.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
 <images_silicano/Densidad_estados_con_spin_down_elementos.png, id=207, 1156.32pt x 579.6054pt>
 File: images_silicano/Densidad_estados_con_spin_down_elementos.png Graphic file (type png)
 <use images_silicano/Densidad_estados_con_spin_down_elementos.png>
-Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_down_elementos.png  used on input line 388.
+Package pdftex.def Info: images_silicano/Densidad_estados_con_spin_down_elementos.png  used on input line 389.
 (pdftex.def)             Requested size: 439.40617pt x 220.25233pt.
  [36 <./images_silicano/Densidad_estados_con_spin_down.png> <./images_silicano/Densidad_estados_con_spin_up_elementos.png>] [37 <./images_silicano/Densidad_estados_con_spin_down_elementos.png>]) (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.bbl) [38] (/home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.aux
 LaTeX Info: Redefining \. on input line 8.
@@ -882,9 +883,9 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  107i,9n,106p,487b,389s stack positions out of 5000i,500n,10000p,200000b,50000s
  </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1095.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc2488.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/eccc1728.pk> </home/jesus/.miktex/texmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx2074.pk></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/jesus/.miktex/texmfs/install/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (39 pages, 4645023 bytes).
+Output written on /home/jesus/Nanociencia_DFT/Reportes/01_Silicio_y_Siliceno/build/main.pdf (39 pages, 4647542 bytes).
 PDF statistics:
- 632 PDF objects out of 1000 (max. 8388607)
+ 639 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  253 words of extra memory for PDF output out of 10000 (max. 10000000)
 
